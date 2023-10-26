@@ -1,1 +1,184 @@
 # FInalproject-2023-CWD-BATCH27-EISMA
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- font awesome -->
+    <script src="https://kit.fontawesome.com/66eb229dd4.js" crossorigin="anonymous"></script>
+    <!-- font awesome cdnjs -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+   <link rel="stylesheet" href="style.css">
+    <title>Final Project</title>
+</head>
+<body>
+    
+    <div class="navbar-fixed">
+        <nav>
+            <div class="container">
+                <a href="" class="brand-logo">Siomai Veggie</a>
+                <ul class="table-of-contents right">
+                    <li>
+                    <a href="#Introduction" class="white-text">Introduction</a>
+                    </li>
+                    <li>
+                        <a href="#Veggie Siomai Price"class="white-text">Veggie Siomai Price</a>
+                        </li>
+                        <li>
+                            <a href="#Benefits" class="white-text">Benefits</a>
+                            </li>
+                            <a href="#Franchise" class="white-text">Franchise</a>
+                        </li>
+                        <a href="#Location" class="white-text">Location</a>
+                            </li>
+                   
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <section class="section scrollspy" id="Introduction">
+        <div class="container">
+    <h3 class="center">Siomai Veggie</h3>
+    <div class="divider"></div>
+    <br>
+    <div class="container">
+        <p>As the demand for sustainable and plant-based food options grows, there is a need to explore innovative alternatives to the classic Siomai recipe. Banana blossom, also known as banana heart or "puso ng saging," is a nutritious and readily available ingredient in the Philippines. Banana blossoms are known for their meaty texture, making them an ideal candidate for a meatless Siomai. The utilization of banana blossom in Siomai aligns with the global shift towards eco-conscious and vegetarian diets. Water spinach, or "kangkong," is another local ingredient with a unique flavor and crisp texture. Its use as a wrapper for Siomai presents an opportunity to enhance the dish's taste and nutritional profile.
+        </p>
+    </div>
+        
+    <!-- Carousel -->
+    <div class="carousel">
+        <a class="carousel-item" href=""><img src="image/siomai1.jpg"></a>
+        <a class="carousel-item" href=""><img src="image/siomai2.jpg"></a>
+        <a class="carousel-item" href=""><img src="image/siomai3.jpg"></a>
+    </div>
+
+    <br>
+
+    
+    <section class="section scrollspy" id="Veggie Siomai Price">
+        <div class="container">
+            <h2>Veggie Siomai Price</h2>
+            <div class="divider"></div>
+            <p>The budget-friendly price of 5 pieces for 20 pesos ensure accessibility for a wide range of customers, making it an attractive option in market. the business will adopt eco-friendly resources such as paper plates and toothpicks, contributing to a reduction in plastic usage and fostering a sense of responsibility toward the environment. This aligns with the growing consumer demand for socially responsible and sustainable products. Consistency in flavor is a top priority foe Siomai Veggie.</p>
+
+            <div style="text-align: center;">
+                
+                
+                <img class="responsive-img" src="image/5piece.jpg" width="300" height="300 style=">
+            <div class="card-content">
+                <h5>5 pcs for</h5>
+                <h7>Php 20.00</h7>
+            </div>
+            
+            <br>
+
+            <section class="section scrollspy" id="Benefits">
+                <div class="container">
+                    <h2>Benefits</h2>
+                    <div class="divider"></div>
+                    <p>Study shows that eating veggie siomai can help you to lower cholesterol and blood sugar levels, prevent enlarged prostate, prevent bone loss, prevents constipation, good eyesight, fights anemia, boost immunity, and etc.</p>
+                </div>
+
+            <section class="section scrollspy" id="Franchise">
+                <div class="container">
+                    <h2>Franchise</h2>
+                    <div class="divider"></div>
+                    <p>Come and join us on our growing healthy business of siomai. Veggie Siomailicious!!</p>
+                </div> 
+
+                <button class="btn waves-effect waves-light" type="submit" name="action">Franchise
+                    <i class="fa-regular fa-paper-plane right"></i>
+                  </button>
+
+
+                  <section class="section scrollspy" id="Location">
+                    <div class="container">
+                <h2>Location</h2>
+                <div class="container">
+                </div>
+                <p>The selected location in front of STI Calamba College stands as the optimal choice for the envisioned venture. Siomai Veggie business featuring delectable offerings such as banana blossom with kangkong. Settled alongside the highway, the open-air setting not only enhances accessibility but also ensures visibility, making it an ideal spot for attracting passersby.</p>
+
+                <br><br>
+
+
+
+
+
+
+    
+
+
+
+    <footer class="page-footer green">
+        <div class="container" style="width: 100%;">
+            <div class="row">
+                <div class="col s6">
+                    <h5 class="white-text">About us</h5>
+                    <p class="grey-text text-lighten-4">Please follow us on our social media and contact us for more information</p>
+                </div>
+                <div class="col s6">
+                    <h5 class="white-text">Social Media</h5>
+                    <ul>
+                        <li><a href="#" class="grey-text text-lighten-3 center">Youtube<i class="fa-brands fa-youtube center"></i>
+                        </a></li>
+                        <li><a href="#" class="grey-text text-lighten-3">Twitter</a>
+                        <i class="fa-brands fa-x-twitter"></i></li>
+                        <li><a href="#" class="grey-text text-lighten-3">Facebook</a>
+                        <i class="fa-brands fa-facebook"></i></li>
+                        <li><a href="#" class="grey-text text-lighten-3">Instagram</a><i class="fa-brands fa-instagram"></i></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+
+        <div class="footer-copyright">
+            <div class="container left">
+                © 2023 Copyright Text
+                <a href="" class="grey-text text text-lighten-3left"></a>
+            </div>
+        </div>
+    </footer>
+    
+    
+
+ <!-- Jquery CDN -->
+ <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+ <!-- Compiled and minified JavaScript -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+ <script>$(document).ready(function(){
+    $('.parallax').parallax();
+  });
+  $(document).ready(function(){
+$('.scrollspy').scrollSpy();
+});
+  
+$(document).ready(function(){
+    
+    $('.carousel').carousel({
+        duration: 1000,
+            dist: 80,
+            shift: 10,
+            padding: 100
+    });
+  });
+  
+</script>
+echo "# FInalproject-2023-CWD-BATCH27-EISMA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Theo-27/FInalproject-2023-CWD-BATCH27-EISMA.git
+git push -u origin main
+</body>
+</html>
+
